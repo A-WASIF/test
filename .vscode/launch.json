@@ -1,0 +1,366 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Search",
+      "request": "launch",
+      "mainClass": "Search",
+      "projectName": "Java Tutorial_61f517e6"
+    },
+    {
+      "type": "java",
+      "name": "Fibbonaci",
+      "request": "launch",
+      "mainClass": "Fibbonaci",
+      "projectName": "Java Tutorial_61f517e6"
+    },
+    {
+      "type": "java",
+      "name": "testRunner",
+      "request": "launch",
+      "mainClass": "JUnit.testRunner",
+      "projectName": "Java Tutorial_61f517e6"
+    },
+    {
+      "type": "java",
+      "name": "hashSet",
+      "request": "launch",
+      "mainClass": "Collection.hashSet",
+      "projectName": "Java Tutorial_61f517e6"
+    },
+    {
+      "type": "java",
+      "name": "demo",
+      "request": "launch",
+      "mainClass": "demo",
+      "projectName": "Java Tutorial_61f517e6"
+    },
+    {
+      "name": "Java",
+      "type": "java",
+      "request": "launch",
+      "stopOnEntry": true,
+      "jdkPath": "${env:JAVA_HOME}/bin",
+      "cwd": "${fileDirname}",
+      "startupClass": "${fileBasenameNoExtension}",
+      "classpath": [
+        ".",
+        "${fileDirname}"
+      ]
+    },
+    {
+      "name": "Java Console App",
+      "type": "java",
+      "request": "launch",
+      "stopOnEntry": true,
+      "jdkPath": "${env:JAVA_HOME}/bin",
+      "cwd": "${fileDirname}",
+      "startupClass": "${fileBasenameNoExtension}",
+      "classpath": [
+        ".",
+        "${fileDirname}"
+      ],
+      "externalConsole": true
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Assertion",
+      "request": "launch",
+      "mainClass": "Assertion",
+      "projectName": "Java Tutorial_61f517e6"
+    },
+    {
+      "type": "java",
+      "name": "Clones",
+      "request": "launch",
+      "mainClass": "Clones",
+      "projectName": "Java Tutorial_61f517e6"
+    },
+    {
+      "type": "java",
+      "name": "Comparables",
+      "request": "launch",
+      "mainClass": "Comparables",
+      "projectName": "Java Tutorial_61f517e6"
+    },
+    {
+      "type": "java",
+      "name": "GenericLists",
+      "request": "launch",
+      "mainClass": "GenericLists",
+      "projectName": "Java Tutorial_61f517e6"
+    },
+    {
+      "type": "java",
+      "name": "Inheritance",
+      "request": "launch",
+      "mainClass": "Inheritance",
+      "projectName": "Java Tutorial_61f517e6"
+    },
+    {
+      "type": "java",
+      "name": "demo",
+      "request": "launch",
+      "mainClass": "JAVAFX.demo",
+      "projectName": "Java Tutorial_61f517e6",
+      "vmArgs": "--module-path \"C:/openjfx-21.0.1_windows-x64_bin-sdk/javafx-sdk-21.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+    },
+    {
+      "type": "java",
+      "name": "OOPSintro",
+      "request": "launch",
+      "mainClass": "OOPSintro",
+      "projectName": "Java Tutorial_61f517e6"
+    },
+    {
+      "type": "java",
+      "name": "StringMethods",
+      "request": "launch",
+      "mainClass": "StringMethods",
+      "projectName": "Java Tutorial_61f517e6"
+    },
+    {
+      "type": "java",
+      "name": "byExtendingClass",
+      "request": "launch",
+      "mainClass": "Threading.byExtendingClass",
+      "projectName": "Java Tutorial_61f517e6"
+    },
+    {
+      "type": "java",
+      "name": "constructor(function Object() { [native code] }1)",
+      "request": "launch",
+      "mainClass": "Threading.constructor",
+      "projectName": "Java Tutorial_61f517e6"
+    },
+    {
+      "type": "java",
+      "name": "Throws",
+      "request": "launch",
+      "mainClass": "Throws",
+      "projectName": "Java Tutorial_61f517e6"
+    },
+    {
+      "type": "java",
+      "name": "calculator",
+      "request": "launch",
+      "mainClass": "TryExcept.calculator",
+      "projectName": "Java Tutorial_61f517e6"
+    },
+    {
+      "type": "java",
+      "name": "nestedTryExceprt",
+      "request": "launch",
+      "mainClass": "TryExcept.nestedTryExceprt",
+      "projectName": "Java Tutorial_61f517e6"
+    },
+    {
+      "type": "java",
+      "name": "test10",
+      "request": "launch",
+      "mainClass": "TryExcept.test10",
+      "projectName": "Java Tutorial_61f517e6"
+    },
+    {
+      "type": "java",
+      "name": "test11",
+      "request": "launch",
+      "mainClass": "TryExcept.test11",
+      "projectName": "Java Tutorial_61f517e6"
+    },
+    {
+      "type": "java",
+      "name": "test3",
+      "request": "launch",
+      "mainClass": "TryExcept.test3",
+      "projectName": "Java Tutorial_61f517e6"
+    },
+    {
+      "type": "java",
+      "name": "test4",
+      "request": "launch",
+      "mainClass": "TryExcept.test4",
+      "projectName": "Java Tutorial_61f517e6"
+    },
+    {
+      "type": "java",
+      "name": "test5",
+      "request": "launch",
+      "mainClass": "TryExcept.test5",
+      "projectName": "Java Tutorial_61f517e6"
+    },
+    {
+      "type": "java",
+      "name": "test6",
+      "request": "launch",
+      "mainClass": "TryExcept.test6",
+      "projectName": "Java Tutorial_61f517e6"
+    },
+    {
+      "type": "java",
+      "name": "test7",
+      "request": "launch",
+      "mainClass": "TryExcept.test7",
+      "projectName": "Java Tutorial_61f517e6"
+    },
+    {
+      "type": "java",
+      "name": "test8",
+      "request": "launch",
+      "mainClass": "TryExcept.test8",
+      "projectName": "Java Tutorial_61f517e6"
+    },
+    {
+      "type": "java",
+      "name": "test9",
+      "request": "launch",
+      "mainClass": "TryExcept.test9",
+      "projectName": "Java Tutorial_61f517e6"
+    },
+    {
+      "type": "java",
+      "name": "tryCatch",
+      "request": "launch",
+      "mainClass": "TryExcept.tryCatch",
+      "projectName": "Java Tutorial_61f517e6"
+    },
+    {
+      "type": "java",
+      "name": "abstractClass",
+      "request": "launch",
+      "mainClass": "abstractClass",
+      "projectName": "Java Tutorial_61f517e6"
+    },
+    {
+      "type": "java",
+      "name": "array",
+      "request": "launch",
+      "mainClass": "array",
+      "projectName": "Java Tutorial_61f517e6"
+    },
+    {
+      "type": "java",
+      "name": "buttonWithLambda",
+      "request": "launch",
+      "mainClass": "buttonWithLambda",
+      "projectName": "Java Tutorial_61f517e6"
+    },
+    {
+      "type": "java",
+      "name": "creating_method",
+      "request": "launch",
+      "mainClass": "creating_method",
+      "projectName": "Java Tutorial_61f517e6"
+    },
+    {
+      "type": "java",
+      "name": "jframe",
+      "request": "launch",
+      "mainClass": "jframe",
+      "projectName": "Java Tutorial_61f517e6"
+    },
+    {
+      "type": "java",
+      "name": "methodOvrriding",
+      "request": "launch",
+      "mainClass": "methodOvrriding",
+      "projectName": "Java Tutorial_61f517e6"
+    },
+    {
+      "type": "java",
+      "name": "numberGuess",
+      "request": "launch",
+      "mainClass": "numberGuess",
+      "projectName": "Java Tutorial_61f517e6"
+    },
+    {
+      "type": "java",
+      "name": "string",
+      "request": "launch",
+      "mainClass": "string",
+      "projectName": "Java Tutorial_61f517e6"
+    },
+    {
+      "type": "java",
+      "name": "test1",
+      "request": "launch",
+      "mainClass": "test1",
+      "projectName": "Java Tutorial_61f517e6"
+    },
+    {
+      "type": "java",
+      "name": "test2",
+      "request": "launch",
+      "mainClass": "test2",
+      "projectName": "Java Tutorial_61f517e6"
+    },
+    {
+      "type": "java",
+      "name": "test3(1)",
+      "request": "launch",
+      "mainClass": "test3",
+      "projectName": "Java Tutorial_61f517e6"
+    },
+    {
+      "type": "java",
+      "name": "test4(1)",
+      "request": "launch",
+      "mainClass": "test4",
+      "projectName": "Java Tutorial_61f517e6"
+    },
+    {
+      "type": "java",
+      "name": "test5(1)",
+      "request": "launch",
+      "mainClass": "test5",
+      "projectName": "Java Tutorial_61f517e6"
+    },
+    {
+      "type": "java",
+      "name": "testingFile",
+      "request": "launch",
+      "mainClass": "testingFile",
+      "projectName": "Java Tutorial_61f517e6"
+    },
+    {
+      "type": "java",
+      "name": "varargs",
+      "request": "launch",
+      "mainClass": "varargs",
+      "projectName": "Java Tutorial_61f517e6"
+    },
+    {
+      "type": "java",
+      "name": "wildcard",
+      "request": "launch",
+      "mainClass": "wildcard",
+      "projectName": "Java Tutorial_61f517e6"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/WASIF/OneDrive/Desktop/Java Tutorial/Collection",
+      "program": "c:/Users/WASIF/OneDrive/Desktop/Java Tutorial/Collection/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
